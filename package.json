@@ -1,1 +1,39 @@
-{     "devDependencies": {         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-apollo-client",     "homepage": "https://github.com/npmtest/node-npmtest-apollo-client",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-apollo-client.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  [apollo-client (v1.0.4)](https://github.com/apollographql/apollo-client#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-apollo-client.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-apollo-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-apollo-client.svg)](https://travis-ci.org/npmtest/node-npmtest-apollo-client)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-apollo-client",
+    "keywords": [
+        "coverage",
+        "test",
+        "apollo-client"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_apollo_client.js",
+    "name": "npmtest-apollo-client",
+    "nameAlias": "npmtest_apollo_client",
+    "nameOriginal": "npmtest-apollo-client",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-apollo-client.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "2017.4.26"
+}
