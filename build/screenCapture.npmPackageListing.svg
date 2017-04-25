@@ -1,0 +1,134 @@
+<svg height="2094" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2094" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 02:38:55 +0000   732107 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 02:38:55 +0000     2745 bytes  ApolloClient.d.ts</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 02:38:55 +0000    10404 bytes  ApolloClient.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 02:38:55 +0000     7780 bytes  ApolloClient.js.map</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 02:38:55 +0000     1105 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 02:38:55 +0000     6751 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 02:38:55 +0000     4451 bytes  actions.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 02:38:55 +0000     1238 bytes  actions.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 02:38:55 +0000     1092 bytes  actions.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 02:38:55 +0000   138689 bytes  apollo.umd.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 02:38:55 +0000   269661 bytes  apollo.umd.js.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 02:38:55 +0000     2172 bytes  core/ObservableQuery.d.ts</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 02:38:55 +0000    14287 bytes  core/ObservableQuery.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 02:38:55 +0000    11418 bytes  core/ObservableQuery.js.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 02:38:55 +0000     4334 bytes  core/QueryManager.d.ts</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 02:38:55 +0000    32127 bytes  core/QueryManager.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 02:38:55 +0000    22806 bytes  core/QueryManager.js.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 02:38:55 +0000      647 bytes  core/types.d.ts</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 02:38:55 +0000      265 bytes  core/types.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 02:38:55 +0000      238 bytes  core/types.js.map</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 02:38:55 +0000     1640 bytes  core/watchQueryOptions.d.ts</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 02:38:55 +0000       45 bytes  core/watchQueryOptions.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 02:38:55 +0000      137 bytes  core/watchQueryOptions.js.map</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 02:38:55 +0000     1133 bytes  data/fragmentMatcher.d.ts</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 02:38:55 +0000     3060 bytes  data/fragmentMatcher.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 02:38:55 +0000     2638 bytes  data/fragmentMatcher.js.map</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 02:38:55 +0000       48 bytes  data/fragmentMatcherIntrospectionQuery.d.ts</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 02:38:55 +0000     4707 bytes  data/fragmentMatcherIntrospectionQuery.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 02:38:55 +0000     1667 bytes  data/fragmentMatcherIntrospectionQuery.js.map</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 02:38:55 +0000      536 bytes  data/mutationResults.d.ts</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 02:38:55 +0000       43 bytes  data/mutationResults.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 02:38:55 +0000      133 bytes  data/mutationResults.js.map</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 02:38:55 +0000     2525 bytes  data/proxy.d.ts</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 02:38:55 +0000     7027 bytes  data/proxy.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 02:38:55 +0000     5228 bytes  data/proxy.js.map</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 02:38:55 +0000     1427 bytes  data/readFromStore.d.ts</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 02:38:55 +0000     5537 bytes  data/readFromStore.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 02:38:55 +0000     5076 bytes  data/readFromStore.js.map</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 02:38:55 +0000      361 bytes  data/replaceQueryResults.d.ts</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 02:38:55 +0000      800 bytes  data/replaceQueryResults.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 02:38:55 +0000      496 bytes  data/replaceQueryResults.js.map</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 02:38:55 +0000      333 bytes  data/resultReducers.d.ts</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 02:38:55 +0000     1257 bytes  data/resultReducers.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 02:38:55 +0000      955 bytes  data/resultReducers.js.map</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 02:38:55 +0000      427 bytes  data/store.d.ts</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 02:38:55 +0000     6484 bytes  data/store.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 02:38:55 +0000     4958 bytes  data/store.js.map</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 02:38:55 +0000     1302 bytes  data/storeUtils.d.ts</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 02:38:55 +0000     3476 bytes  data/storeUtils.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 02:38:55 +0000     3682 bytes  data/storeUtils.js.map</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 02:38:55 +0000     1141 bytes  data/writeToStore.d.ts</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 02:38:55 +0000     8074 bytes  data/writeToStore.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-25 02:38:55 +0000     6493 bytes  data/writeToStore.js.map</tspan>
+<tspan x="10" y="874"> 53.  2017-04-25 02:38:55 +0000      485 bytes  errors/ApolloError.d.ts</tspan>
+<tspan x="10" y="890"> 54.  2017-04-25 02:38:55 +0000     1865 bytes  errors/ApolloError.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-25 02:38:55 +0000     1279 bytes  errors/ApolloError.js.map</tspan>
+<tspan x="10" y="922"> 56.  2017-04-25 02:38:55 +0000     1944 bytes  index.d.ts</tspan>
+<tspan x="10" y="938"> 57.  2017-04-25 02:38:55 +0000     1424 bytes  index.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-25 02:38:55 +0000     1064 bytes  index.js.map</tspan>
+<tspan x="10" y="970"> 59.  2017-04-25 02:38:55 +0000      536 bytes  mutations/store.d.ts</tspan>
+<tspan x="10" y="986"> 60.  2017-04-25 02:38:55 +0000     1434 bytes  mutations/store.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-25 02:38:55 +0000     1228 bytes  mutations/store.js.map</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-25 02:38:55 +0000      457 bytes  optimistic-data/store.d.ts</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-25 02:38:55 +0000     3286 bytes  optimistic-data/store.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-25 02:38:55 +0000     2861 bytes  optimistic-data/store.js.map</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-25 02:38:55 +0000     4209 bytes  package.json</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-25 02:38:55 +0000      157 bytes  queries/directives.d.ts</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-25 02:38:55 +0000     1730 bytes  queries/directives.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-25 02:38:55 +0000     1734 bytes  queries/directives.js.map</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-25 02:38:55 +0000      966 bytes  queries/getFromAST.d.ts</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-25 02:38:55 +0000     5337 bytes  queries/getFromAST.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-25 02:38:55 +0000     4318 bytes  queries/getFromAST.js.map</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-25 02:38:55 +0000      246 bytes  queries/networkStatus.d.ts</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-25 02:38:55 +0000      655 bytes  queries/networkStatus.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-25 02:38:55 +0000      396 bytes  queries/networkStatus.js.map</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-25 02:38:55 +0000      120 bytes  queries/queryTransform.d.ts</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-25 02:38:55 +0000     1601 bytes  queries/queryTransform.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-25 02:38:55 +0000     1605 bytes  queries/queryTransform.js.map</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-25 02:38:55 +0000      762 bytes  queries/store.d.ts</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-25 02:38:55 +0000     5320 bytes  queries/store.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-25 02:38:55 +0000     4933 bytes  queries/store.js.map</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-25 02:38:55 +0000     1146 bytes  scheduler/scheduler.d.ts</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-25 02:38:55 +0000     4012 bytes  scheduler/scheduler.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-25 02:38:55 +0000     3290 bytes  scheduler/scheduler.js.map</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-25 02:38:55 +0000     1595 bytes  store.d.ts</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-25 02:38:55 +0000     3927 bytes  store.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-25 02:38:55 +0000     3477 bytes  store.js.map</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-25 02:38:55 +0000      328 bytes  transport/Deduplicator.d.ts</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-25 02:38:55 +0000     1242 bytes  transport/Deduplicator.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-25 02:38:55 +0000     1182 bytes  transport/Deduplicator.js.map</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-25 02:38:55 +0000      626 bytes  transport/afterware.d.ts</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-25 02:38:55 +0000       37 bytes  transport/afterware.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-25 02:38:55 +0000      126 bytes  transport/afterware.js.map</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-25 02:38:55 +0000     1519 bytes  transport/batchedNetworkInterface.d.ts</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-25 02:38:55 +0000     7329 bytes  transport/batchedNetworkInterface.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-25 02:38:55 +0000     4962 bytes  transport/batchedNetworkInterface.js.map</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-25 02:38:55 +0000      766 bytes  transport/batching.d.ts</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-25 02:38:55 +0000     2052 bytes  transport/batching.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-25 02:38:55 +0000     1819 bytes  transport/batching.js.map</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-25 02:38:55 +0000      635 bytes  transport/middleware.d.ts</tspan>
+<tspan x="10" y="1626">100.  2017-04-25 02:38:55 +0000       38 bytes  transport/middleware.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-25 02:38:55 +0000      128 bytes  transport/middleware.js.map</tspan>
+<tspan x="10" y="1658">102.  2017-04-25 02:38:55 +0000     2909 bytes  transport/networkInterface.d.ts</tspan>
+<tspan x="10" y="1674">103.  2017-04-25 02:38:55 +0000     7191 bytes  transport/networkInterface.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-25 02:38:55 +0000     4939 bytes  transport/networkInterface.js.map</tspan>
+<tspan x="10" y="1706">105.  2017-04-25 02:38:55 +0000      533 bytes  util/Observable.d.ts</tspan>
+<tspan x="10" y="1722">106.  2017-04-25 02:38:55 +0000      837 bytes  util/Observable.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-25 02:38:55 +0000      675 bytes  util/Observable.js.map</tspan>
+<tspan x="10" y="1754">108.  2017-04-25 02:38:55 +0000      380 bytes  util/assign.d.ts</tspan>
+<tspan x="10" y="1770">109.  2017-04-25 02:38:55 +0000      348 bytes  util/assign.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-25 02:38:55 +0000      431 bytes  util/assign.js.map</tspan>
+<tspan x="10" y="1802">111.  2017-04-25 02:38:55 +0000       51 bytes  util/cloneDeep.d.ts</tspan>
+<tspan x="10" y="1818">112.  2017-04-25 02:38:55 +0000      474 bytes  util/cloneDeep.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-25 02:38:55 +0000      707 bytes  util/cloneDeep.js.map</tspan>
+<tspan x="10" y="1850">114.  2017-04-25 02:38:55 +0000      237 bytes  util/environment.d.ts</tspan>
+<tspan x="10" y="1866">115.  2017-04-25 02:38:55 +0000      481 bytes  util/environment.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-25 02:38:55 +0000      599 bytes  util/environment.js.map</tspan>
+<tspan x="10" y="1898">117.  2017-04-25 02:38:55 +0000       65 bytes  util/errorHandling.d.ts</tspan>
+<tspan x="10" y="1914">118.  2017-04-25 02:38:55 +0000      213 bytes  util/errorHandling.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-25 02:38:55 +0000      368 bytes  util/errorHandling.js.map</tspan>
+<tspan x="10" y="1946">120.  2017-04-25 02:38:55 +0000       58 bytes  util/isEqual.d.ts</tspan>
+<tspan x="10" y="1962">121.  2017-04-25 02:38:55 +0000      661 bytes  util/isEqual.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-25 02:38:55 +0000      988 bytes  util/isEqual.js.map</tspan>
+<tspan x="10" y="1994">123.  2017-04-25 02:38:55 +0000       56 bytes  util/maybeDeepFreeze.d.ts</tspan>
+<tspan x="10" y="2010">124.  2017-04-25 02:38:55 +0000      604 bytes  util/maybeDeepFreeze.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-25 02:38:55 +0000      845 bytes  util/maybeDeepFreeze.js.map</tspan>
+<tspan x="10" y="2042">126.  2017-04-25 02:38:55 +0000       40 bytes  version.d.ts</tspan>
+<tspan x="10" y="2058">127.  2017-04-25 02:38:55 +0000       25 bytes  version.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-25 02:38:55 +0000      148 bytes  version.js.map</tspan>
+</text>
+</svg>
